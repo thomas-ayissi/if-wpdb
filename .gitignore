@@ -1,0 +1,8 @@
+node_modules
+accessibility_report
+**/.DS_Store
+.vscode/settings.json
+.history
+.idea
+.replit
+replit.nix
